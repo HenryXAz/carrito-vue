@@ -1,0 +1,38 @@
+[
+    {
+      "sale_price": 500,
+      "id": 1,
+      "title": "Café",
+      "thumbnailUrl": "https://images.pexels.com/photos/4109850/pexels-photo-4109850.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "sale_price": 300,
+      "id": 2,
+      "title": "Pizza",
+      "thumbnailUrl": "https://images.pexels.com/photos/1146760/pexels-photo-1146760.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "sale_price": 100,
+      "id": 3,
+      "title": "Agua",
+      "thumbnailUrl": "https://images.pexels.com/photos/1000084/pexels-photo-1000084.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "sale_price": 50.45,
+      "id": 4,
+      "title": "Sandía",
+      "thumbnailUrl": "https://images.pexels.com/photos/1398655/pexels-photo-1398655.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "sale_price": 10,
+      "id": 5,
+      "title": "Mango",
+      "thumbnailUrl": "https://images.pexels.com/photos/918643/pexels-photo-918643.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "sale_price": 150,
+      "id": 6,
+      "title": "Pan",
+      "thumbnailUrl": "https://images.pexels.com/photos/209206/pexels-photo-209206.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }
+  ]
